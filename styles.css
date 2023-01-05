@@ -1,2 +1,19 @@
-div {background-color: #ffc1cc;
+body {background-color: #ffc1cc;
+    color: rgb(79, 127, 223);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+} 
+h1 { text-align: center;
+} 
+img {
+
+    width: 300px;
+    border-radius: 50px; border-style: double; border-color: aliceblue;
+  
+  }
+  img {
+    float:left;
 }
+div.b {text-align: center; text-indent: 100px; }
+div.a {  text-align: center;}
+div.c {  text-align: center;}
